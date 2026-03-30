@@ -1,0 +1,76 @@
+1. Biomass Carbon-Based Supercapacitors (Interpretable ML)
+
+Task Name: give anyname (examples:-a,A,g,10,3,sample,run,etc.....)
+Downloaded Range: 10-30 
+Queries for NLP screening:
+biomass carbon supercapacitors machine learning
+biomass carbon EDLC performance prediction
+interpretable ML for supercapacitor capacitance
+machine learning biomass carbon energy storage
+ML analysis of biomass carbon supercapacitors
+
+Important attributes:
+specific capacitance, current density, specific surface area, micropore volume, pore volume, nitrogen content, ID IG ratio, pore size, oxygen content, carbon oxygen ratio, scan rate, potential window, electrolyte type, micropore surface area, carbon content, energy density, power density
+
+
+2. Solid-State Electrolytes for Li-Ion Batteries
+
+Task Name: Solid-State Electrolytes for Li-Ion Batteries or give anyname (examples:-a,A,g,10,3,sample,run,etc.....)
+Downloaded Range: 10-30
+Queries for NLP screening:
+solid state electrolyte lithium ion batteries
+ML discovery of solid state electrolytes
+high throughput screening Li ion conductors
+machine learning lithium ion conductivity materials
+ML assisted discovery lithium battery electrolytes
+
+Important attributes:
+lithium ion conductivity, activation energy, electrochemical stability window, band gap, phase stability, energy above hull, lithium ion diffusivity, interfacial stability, mean square displacement, electronegativity difference, packing efficiency, packing fraction, volume per atom, shear modulus, bulk modulus, oxidation limit, reduction limit, electronic conductivity
+
+
+3. Magnetic Hyperthermia (SPION Nanoparticles)
+
+Task Name: Magnetic Hyperthermia (SPION Nanoparticles) or give anyname (examples:-a,A,g,10,3,sample,run,etc.....)
+Downloaded Range: 10-30
+Queries for NLP screening:
+magnetic hyperthermia SPION machine learning
+ML prediction specific absorption rate nanoparticles
+SPION hyperthermia SAR prediction
+machine learning iron oxide nanoparticle hyperthermia
+ML analysis nanoparticle heating performance
+
+Important attributes:
+specific absorption rate, AMF amplitude, AMF frequency, SPION concentration, core diameter, saturation magnetization, core surface area, core volume, particle shape, Mn Fe ratio, Zn Fe ratio, Co Fe ratio, Mg Fe ratio, diameter standard deviation, surface area volume ratio, coercivity, remanence, Ms Mr ratio, temperature, coating presence, coating type, suspension medium
+
+
+4. Magnetic Materials Discovery (ML-guided)
+
+Task Name: Magnetic Materials Discovery (ML-guided) or give anyname (examples:-a,A,g,10,3,sample,run,etc.....)
+Downloaded Range: 10-30
+Queries for NLP screening:
+machine learning discovery magnetic materials
+ML guided discovery rare earth free magnets
+ML assisted magnetic materials design
+adaptive genetic algorithm magnetic materials
+ML prediction magnetic compound properties
+
+Important attributes:
+magnetic anisotropy energy, saturation magnetization, formation energy, energy above hull, chemical composition, crystal structure, lattice parameters, phase stability, magnetic polarization, band structure, density of states, coordination number, bond length, atomic environment, elemental ratio, structure prototype, atomic features, crystal graph features
+
+
+5. Solar Cell
+
+Task Name: Solar Cell or give anyname (examples:-a,A,g,10,3,sample,run,etc.....)
+Downloaded Range: 10-30
+Queries for NLP screening:
+solar cell efficiency prediction
+machine learning solar cell materials
+photovoltaic device performance optimization
+perovskite solar cell efficiency analysis
+thin film solar cell performance study
+photovoltaic materials machine learning
+solar cell device parameters analysis
+photovoltaic efficiency modeling
+
+Important attributes:
+power conversion efficiency, open circuit voltage, short circuit current density, fill factor, band gap, absorber material, absorber thickness, electron mobility, hole mobility, carrier lifetime, recombination rate, series resistance, shunt resistance, light absorption coefficient, optical band gap, defect density, interface recombination velocity, temperature, illumination intensity
